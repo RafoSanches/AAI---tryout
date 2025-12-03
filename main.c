@@ -1,13 +1,11 @@
 /*
  * Sistema de Controle de Acervo e Empréstimos
- * Biblioteca Municipal
+ * Biblioteca 
  * 
  * Integrantes do Grupo:
- * - [Nome do Integrante 1]
- * - [Nome do Integrante 2]
- * - [Nome do Integrante 3]
+ * -Rafael Sanches 
+ * -Arthur
  * 
- * Data: 03 de dezembro de 2025
  */
 
 #include "biblioteca.h"
