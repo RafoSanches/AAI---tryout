@@ -3,8 +3,8 @@
  * Biblioteca 
  * 
  * Integrantes do Grupo:
- * -Rafael Sanches 
- * -Arthur
+ * -Rafael Sanches Camargo
+ * -Arthur margarinho Oliveira de Souza
  * 
  */
 
